@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Apr 24 08:52:27 2021
+Invocation: foremost -i glute.png 
+Output directory: /mnt/c/Users/abhis/Downloads/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: glute.png
+Start: Sat Apr 24 08:52:27 2021
+Length: 335 KB (343136 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000564.jpg 	      19 KB 	     288793 	 
+1:	00000000.png 	     335 KB 	          0 	  (699 x 699)
+2:	00000557.pdf 	      55 KB 	     285674 	 
+Finish: Sat Apr 24 08:52:27 2021
+
+3 FILES EXTRACTED
+	
+jpg:= 1
+png:= 1
+pdf:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Apr 24 08:52:27 2021
